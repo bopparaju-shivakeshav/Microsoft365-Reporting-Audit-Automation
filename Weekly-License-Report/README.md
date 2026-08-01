@@ -20,7 +20,13 @@ The IT team required a recurring report showing:
 The report is automatically generated and delivered by email every week.
 
 ---
+## Sample Output
 
+### Weekly License Report Email
+
+![Weekly License Report](Images/Weekly-License-Report-Email.png)
+
+---
 ## Technologies
 
 - Microsoft 365
