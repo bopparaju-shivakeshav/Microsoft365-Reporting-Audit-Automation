@@ -24,7 +24,7 @@ The report is automatically generated and delivered by email every week.
 
 ### Weekly License Report Email
 
-![Weekly License Report](Images/Weekly-License-Report-Email.png)
+![Weekly License Report](Weekly-License-Report/Weekly-License-Report-Email.png)
 
 ---
 ## Technologies
